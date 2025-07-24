@@ -1,5 +1,5 @@
 # Wall-Climbing-Robot
-Srishti 2020
+Climber's Strain
 ![](https://github.com/marsiitr/Wall-Climbing-Robot/blob/80542ecedfcc531dddfdac09be7de8b2ccad7546/Images%20and%20Videos/Images/front%20view.jpg)
 
 ## Abstract
